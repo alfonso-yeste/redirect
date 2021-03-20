@@ -6,4 +6,4 @@ function redireccionar() {
         destino = 'https://xb23d8i1.optimalworkshop.com/treejack/310bfd7c-0';
     }
 }
-setTimeout(redireccionar, 3000);
+setTimeout(redireccionar, 1000);
